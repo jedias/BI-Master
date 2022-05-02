@@ -1,4 +1,4 @@
-# Implementação de Técnicas de Processmento de Linguagem Natural em Normas Técnicas 
+# Implementação de Técnicas de Processamento de Linguagem Natural em Normas Técnicas 
 
 #### Aluno: [José Eduardo Dias Junior](https://github.com/jedias/).
 #### Orientador: [Leonardo Alfredo Forero Mendoza](https://www.maxwell.vrac.puc-rio.br/colecao.php?strSecao=autor&nrSeq=24891@1&nrseqaut=13202).
